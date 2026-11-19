@@ -7,5 +7,5 @@ This project cleans station rainfall records for five Kenyan counties (**Nairobi
 
 1. Clone the repository and navigate into the project folder:
    ```bash
-   git clone [https://github.com/](https://github.com/)<username>/plp-da-a2-rainfall-advisory.git
+   git clone [https://github.com/]https://github.com/S1l3ntAdm1n/plp-da-a2-rainfall-advisory.git
    cd plp-da-a2-rainfall-advisory
